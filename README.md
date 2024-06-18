@@ -9,7 +9,7 @@ The last one convert the value of XYZ into the value of duty cycle of PWM.
 The hardware included in my project:
 - Microcontroller STM32F103C8T6
 - ST link V2
-- 3 Led 7-Segment
+- 3 Common cathode 7-Segment LED 
 - 3 IC 74HC595
 - 4 buttons
 - Resistors
