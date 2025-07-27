@@ -22,3 +22,14 @@ Here is a image of simulation of my project by using Proteus:
 
 Here is a video that i test my model:
 - https://drive.google.com/file/d/14BpWfodbAsfC-NrcI3C3pM050JPRguLl/view?usp=sharing
+
+
+
+---
+
+### :five: cb_data_count
+<p align="center">
+<img width="531" height="916" alt="image (1)" src="https://github.com/user-attachments/assets/f6a756d1-d45e-43f5-aa0f-9488c534e5e3" />
+</p>
+
+---
