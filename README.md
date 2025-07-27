@@ -29,7 +29,7 @@ Here is a video that i test my model:
 
 ### :five: cb_data_count
 <p align="center">
-<img width="531" height="916" alt="image (1)" src="https://github.com/user-attachments/assets/f6a756d1-d45e-43f5-aa0f-9488c534e5e3" />
+<img width="529" height="915" alt="image" src="https://github.com/user-attachments/assets/86d61668-280a-4423-a198-6e35b47d66f6" />
 </p>
 
 ---
